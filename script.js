@@ -97,16 +97,16 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'card4', img: 'images/rollsafe.png' },
         { name: 'card5', img: 'images/success.png' },
         { name: 'card5', img: 'images/success.png' },
-        { name: 'card6', img: 'images/sad.png' },
-        { name: 'card6', img: 'images/sad.png' },
-        { name: 'card7', img: 'images/laugh.png' },
-        { name: 'card7', img: 'images/laugh.png' },
-        { name: 'card8', img: 'images/wtf.png' },
-        { name: 'card8', img: 'images/wtf.png' },
-        { name: 'card9', img: 'images/abey.png' },
-        { name: 'card9', img: 'images/abey.png' },
-        { name: 'card10', img: 'images/nahi.png' },
-        { name: 'card10', img: 'images/nahi.png' } 
+        // { name: 'card6', img: 'images/sad.png' },
+        // { name: 'card6', img: 'images/sad.png' },
+        // { name: 'card7', img: 'images/laugh.png' },
+        // { name: 'card7', img: 'images/laugh.png' },
+        // { name: 'card8', img: 'images/wtf.png' },
+        // { name: 'card8', img: 'images/wtf.png' },
+        // { name: 'card9', img: 'images/abey.png' },
+        // { name: 'card9', img: 'images/abey.png' },
+        // { name: 'card10', img: 'images/nahi.png' },
+        // { name: 'card10', img: 'images/nahi.png' } 
     ];
 
     function shuffle(array) {
